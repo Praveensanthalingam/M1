@@ -1,4 +1,4 @@
-
+NAME: PRAVEEN SANTHALINGAM M
 # EX-01-Datatypes-Operators
 ## AIM:
 Write a C program to read 3 characters one by one and print the characters in a reverse order.
@@ -11,9 +11,12 @@ Write a C program to read 3 characters one by one and print the characters in a 
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/d014c6ff-6568-49c4-b0e4-0a59563835b1)
+
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/d2f06ffa-4951-4af1-b99e-e583dbed3ea4)
 
 
 
@@ -47,8 +50,12 @@ Write a C program to read A values and check whether A is positive number or not
 
 # PROGRAM:
 
+![image](https://github.com/user-attachments/assets/be7213f2-1f3b-418f-905c-70faa2c2356c)
+
 # OUTPUT:
 
+
+![image](https://github.com/user-attachments/assets/432c4b66-96f0-4104-aa0a-ec1fa021f9ad)
 
 
 
@@ -81,10 +88,13 @@ Write a program to find minimum between two fraction numbers using conditional o
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/0a02ac8f-7bb4-4846-aea2-ca4854f2e60f)
+
 ## OUTPUT:
 
 
 
+![image](https://github.com/user-attachments/assets/98bdb41c-d862-4907-a654-2c7e6a424216)
 
 
 
@@ -112,9 +122,13 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/6e3b053b-fd7b-4ebc-8a4c-4ce003c8b004)
+
+  
 ## OUTPUT:
 
 
+![image](https://github.com/user-attachments/assets/6ce9d38e-f878-4a32-beab-9bf0c7023646)
 
 
 
@@ -148,7 +162,14 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 10.	End
 ## PROGRAM:
 
+![image](https://github.com/user-attachments/assets/422a9195-a8d3-48ae-b4aa-c8c01c3729a7)
+
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/0cddf006-6232-4328-b1c8-2345474c0b9a)
+
+![image](https://github.com/user-attachments/assets/a93689da-ff7c-49f5-9c7f-f63ff98f276a)
+
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
